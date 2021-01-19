@@ -1,0 +1,6 @@
+Commands
+  #  sudo apt install g++ [Installing]
+  #  g++ filename.cpp [Compiling]
+  #  ./a.out [Executing]
+
+cin do not take whitespace into consideration. It terminates after any whitespace comes.
